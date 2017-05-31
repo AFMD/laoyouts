@@ -9,11 +9,15 @@ AC1027
   9
 $ACADMAINTVER
  70
-   105
+   125
   9
 $DWGCODEPAGE
   3
 ANSI_1252
+  9
+$LASTSAVEDBY
+  1
+ashton
   9
 $REQUIREDVERSIONS
 160
@@ -37,7 +41,7 @@ $EXTMIN
   9
 $EXTMAX
  10
-2423.515379090327
+2666.266254873747
  20
 1726.510246202182
  30
@@ -497,19 +501,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2457882.515928993
+2457886.490833333
   9
 $TDUUPDATE
  40
-2457882.515928993
+2457886.449166667
   9
 $TDINDWG
  40
-0.4229745602
+0.4885301157
   9
 $TDUSRTIMER
  40
-2457882.515497291
+2457882.581052847
   9
 $USRTIMER
  70
@@ -549,7 +553,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-3492
+3595
   9
 $SURFTAB1
  70
@@ -933,7 +937,7 @@ $FINGERPRINTGUID
   9
 $VERSIONGUID
   2
-{DA4F7ADA-A76C-4B4D-83B0-0CA0D5E6AFD0}
+{D28064D3-353A-4A43-A12F-E63C73E2FE2B}
   9
 $EXTNAMES
 290
@@ -1131,7 +1135,7 @@ ObjectDBX Classes
  90
         0
  91
-        4
+        1
 280
      0
 281
@@ -1147,7 +1151,7 @@ ObjectDBX Classes
  90
         0
  91
-        4
+       11
 280
      0
 281
@@ -1163,7 +1167,7 @@ ObjectDBX Classes
  90
      4095
  91
-        4
+        1
 280
      0
 281
@@ -1179,7 +1183,7 @@ ObjectDBX Classes
  90
      1153
  91
-        4
+        3
 280
      0
 281
@@ -1195,7 +1199,7 @@ ObjectDBX Classes
  90
      4095
  91
-        4
+       24
 280
      0
 281
@@ -1211,7 +1215,7 @@ ObjectDBX Classes
  90
      1153
  91
-        4
+       17
 280
      0
 281
@@ -1227,7 +1231,7 @@ ACDB_MLEADERSTYLE_CLASS
  90
      4095
  91
-        4
+        2
 280
      0
 281
@@ -1243,7 +1247,7 @@ ObjectDBX Classes
  90
      1152
  91
-        4
+        3
 280
      0
 281
@@ -1259,7 +1263,7 @@ EXAC_ESW
  90
      1025
  91
-        1
+        0
 280
      1
 281
@@ -1275,7 +1279,7 @@ ObjectDBX Classes
  90
      1153
  91
-        1
+        0
 280
      1
 281
@@ -1291,7 +1295,7 @@ ObjectDBX Classes
  90
         0
  91
-        4
+        0
 280
      0
 281
@@ -1303,11 +1307,11 @@ SPATIAL_INDEX
   2
 AcDbSpatialIndex
   3
-AutoCAD 2000
+ObjectDBX Classes
  90
         0
  91
-        4
+        0
 280
      0
 281
@@ -1323,7 +1327,7 @@ ObjectDBX Classes
  90
         0
  91
-        4
+        0
 280
      0
 281
@@ -1339,7 +1343,7 @@ ObjectDBX Classes
  90
      1025
  91
-        4
+        3
 280
      0
 281
@@ -1355,7 +1359,7 @@ ObjectDBX Classes
  90
      1025
  91
-        4
+        3
 280
      0
 281
@@ -1387,7 +1391,7 @@ AmgSettingsObj
  90
      1024
  91
-        1
+        2
 280
      1
 281
@@ -1435,7 +1439,7 @@ AcMeServices
  90
      1024
  91
-        1
+        3
 280
      1
 281
@@ -1451,7 +1455,7 @@ AcMeServices
  90
      1024
  91
-        1
+        2
 280
      1
 281
@@ -1515,7 +1519,7 @@ AcMeServices
  90
      1024
  91
-        1
+        2
 280
      1
 281
@@ -1627,7 +1631,7 @@ AcMeServices
  90
      1024
  91
-        1
+        5
 280
      1
 281
@@ -2091,7 +2095,7 @@ AmdtSectionSymStdCustom
  90
      1024
  91
-        1
+        2
 280
      1
 281
@@ -2107,7 +2111,7 @@ AmdtDetailSymStdCustom
  90
      1024
  91
-        1
+        2
 280
      1
 281
@@ -2123,7 +2127,7 @@ ObjectDBX Classes
  90
      1152
  91
-        4
+        3
 280
      0
 281
@@ -2139,7 +2143,7 @@ ObjectDBX Classes
  90
      1152
  91
-        4
+        1
 280
      0
 281
@@ -2155,7 +2159,7 @@ AcmSymBB|Product Description: AutoCAD Mechanical|Company: Autodesk, Inc.
  90
      1024
  91
-        1
+        7
 280
      1
 281
@@ -2203,7 +2207,7 @@ McadcomServices
  90
      1024
  91
-        1
+        2
 280
      1
 281
@@ -2233,9 +2237,9 @@ AcDbExtrudedSurface
   3
 ObjectDBX Classes
  90
-     4093
+        0
  91
-        4
+        0
 280
      0
 281
@@ -2251,7 +2255,7 @@ ObjectDBX Classes
  90
         0
  91
-        4
+        2
 280
      0
 281
@@ -2267,7 +2271,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        2
 280
      1
 281
@@ -2283,7 +2287,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        0
 280
      1
 281
@@ -2299,7 +2303,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        6
 280
      1
 281
@@ -2315,7 +2319,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        0
 280
      1
 281
@@ -2331,7 +2335,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        0
 280
      1
 281
@@ -2347,7 +2351,7 @@ ObjectDBX Classes
  90
      1024
  91
-        2
+        1
 280
      1
 281
@@ -2363,7 +2367,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        3
 280
      1
 281
@@ -2379,7 +2383,7 @@ AcAmgFilterDat
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2395,7 +2399,7 @@ SCENEOE
  90
      4095
  91
-        4
+        0
 280
      0
 281
@@ -2411,7 +2415,7 @@ ObjectDBX Classes
  90
      1153
  91
-        1
+        0
 280
      1
 281
@@ -2427,7 +2431,7 @@ ObjectDBX Classes
  90
      1153
  91
-        4
+        0
 280
      0
 281
@@ -2443,7 +2447,7 @@ ObjectDBX Classes
  90
      1153
  91
-        1
+        0
 280
      1
 281
@@ -2459,7 +2463,7 @@ AcDbPersSubentManager
  90
      1024
  91
-        2
+        1
 280
      1
 281
@@ -2491,7 +2495,7 @@ AcmStandardANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2507,7 +2511,7 @@ AcmSurfTextStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2523,7 +2527,7 @@ AcmFCFStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2539,7 +2543,7 @@ AcmWeldingStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2555,7 +2559,7 @@ AcmIdStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2571,7 +2575,7 @@ AcmDatumStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2587,7 +2591,7 @@ AcmBOMStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2603,7 +2607,7 @@ AmdtDetailSymStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2619,7 +2623,7 @@ AmdtSectionSymStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2635,7 +2639,7 @@ AmdtCenterLineStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2651,7 +2655,7 @@ AmdtThreadLineStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2667,7 +2671,7 @@ AmdtNoteStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2683,7 +2687,7 @@ AcmTaperStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2699,7 +2703,7 @@ AmdtAnViewStdANSI
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2715,7 +2719,7 @@ AmgDim|Product Description: AutoCAD Mechanical|Company: Autodesk, Inc.
  90
      1024
  91
-        1
+        0
 280
      1
 281
@@ -2731,7 +2735,7 @@ ACAD_ARRAY
  90
       129
  91
-        1
+        0
 280
      1
 281
@@ -2747,7 +2751,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        2
 280
      1
 281
@@ -2763,7 +2767,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        6
 280
      1
 281
@@ -2779,7 +2783,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        0
 280
      1
 281
@@ -2795,7 +2799,7 @@ SCENEOE
  90
      1153
  91
-        4
+        1
 280
      0
 281
@@ -2811,7 +2815,7 @@ ISM
  90
         0
  91
-        4
+        1
 280
      0
 281
@@ -2827,7 +2831,7 @@ AcDbDimAssoc
  90
         0
  91
-        4
+        0
 280
      0
 281
@@ -2879,9 +2883,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-3.145209553231779
+40.03703405520627
  22
--5.213492416306508
+-15.89022612051081
  13
 0.0
  23
@@ -2907,9 +2911,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-306.4136431047419
+316.4022957407636
  41
-1.676792223572297
+2.001053740779768
  42
 50.0
  43
@@ -2999,7 +3003,7 @@ LTYPE
 100
 AcDbSymbolTable
  70
-    19
+    20
   0
 LTYPE
   5
@@ -3087,7 +3091,7 @@ Hidden __ __ __ __ __ __ __ __ __ __ __ __ __ _
  73
      2
  40
-9.524999999999997
+9.524999999999996
  49
 6.349999999999997
  74
@@ -3907,38 +3911,6 @@ AcAecLayerStandard
   0
 LAYER
   5
-32A7
-330
-2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-holder_support
- 70
-     0
- 62
-   140
-  6
-Continuous
-370
-    -3
-390
-F
-347
-EE
-348
-0
-1001
-AcAecLayerStandard
-1000
-
-1000
-
-  0
-LAYER
-  5
 33F5
 330
 2
@@ -4183,7 +4155,7 @@ VIEW
 100
 AcDbSymbolTable
  70
-     0
+     1
   0
 ENDTAB
   0
@@ -4519,9 +4491,13 @@ A
 100
 AcDbSymbolTable
  70
-    16
+    17
 100
 AcDbDimStyleTable
+ 71
+     1
+340
+2AA
   0
 DIMSTYLE
 105
@@ -4535,8 +4511,6 @@ AcDbDimStyleTableRecord
   2
 Standard
  70
-     0
-178
      0
 340
 11
@@ -4584,8 +4558,6 @@ Annotative
      3
 172
      1
-178
-     0
 271
      2
 272
@@ -4666,8 +4638,6 @@ ISO-25
      3
 172
      1
-178
-     0
 271
      2
 272
@@ -4688,6 +4658,8 @@ DIMSTYLE
 2AA
 102
 {ACAD_REACTORS
+330
+34C3
 102
 }
 330
@@ -4714,8 +4686,6 @@ AM_ISO
 0.1
  48
 0.1
- 90
-        1
  73
      0
  74
@@ -4726,6 +4696,8 @@ AM_ISO
      8
  79
      2
+ 90
+     1
 140
 3.5
 141
@@ -4742,8 +4714,6 @@ AM_ISO
    256
 177
    256
-271
-     2
 178
      2
 271
@@ -4758,16 +4728,16 @@ AM_ISO
      8
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMJAG
 1070
@@ -4808,8 +4778,6 @@ AM_ISO$3
 0.1
  48
 0.1
- 90
-        1
  73
      0
  77
@@ -4818,6 +4786,8 @@ AM_ISO$3
      8
  79
      2
+ 90
+     1
 140
 3.5
 141
@@ -4832,8 +4802,6 @@ AM_ISO$3
    256
 177
    256
-271
-     2
 178
      2
 271
@@ -4852,16 +4820,16 @@ AM_ISO$3
      0
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -4902,8 +4870,6 @@ AM_ISO$4
 0.1
  48
 0.1
- 90
-        1
  73
      0
  77
@@ -4912,6 +4878,8 @@ AM_ISO$4
      8
  79
      2
+ 90
+     1
 140
 3.5
 141
@@ -4926,8 +4894,6 @@ AM_ISO$4
    256
 177
    256
-271
-     2
 178
      2
 271
@@ -4946,16 +4912,16 @@ AM_ISO$4
      0
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -4996,8 +4962,6 @@ AM_ISO$6
 0.1
  48
 0.1
- 90
-        1
  73
      0
  74
@@ -5006,6 +4970,8 @@ AM_ISO$6
      8
  79
      2
+ 90
+     1
 140
 3.5
 141
@@ -5022,8 +4988,6 @@ AM_ISO$6
    256
 177
    256
-271
-     2
 178
      2
 271
@@ -5038,16 +5002,16 @@ AM_ISO$6
      8
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -5088,8 +5052,6 @@ AM_ISO$7
 0.1
  48
 0.1
- 90
-        1
  73
      0
  74
@@ -5100,6 +5062,8 @@ AM_ISO$7
      8
  79
      2
+ 90
+     1
 140
 3.5
 141
@@ -5116,8 +5080,6 @@ AM_ISO$7
    256
 177
    256
-271
-     2
 178
      2
 271
@@ -5132,16 +5094,16 @@ AM_ISO$7
      8
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -5182,8 +5144,6 @@ AM_ISO$SF
 0.1
  48
 0.1
- 90
-        1
  73
      0
  74
@@ -5198,6 +5158,8 @@ AM_ISO$SF
      8
  79
      2
+ 90
+     1
 140
 3.5
 141
@@ -5214,8 +5176,6 @@ AM_ISO$SF
    256
 177
    256
-271
-     2
 178
      2
 271
@@ -5230,16 +5190,16 @@ AM_ISO$SF
      8
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -5280,8 +5240,6 @@ AM_ISO$SH
 0.1
  48
 0.1
- 90
-        1
  73
      0
  74
@@ -5296,6 +5254,8 @@ AM_ISO$SH
      8
  79
      2
+ 90
+     1
 140
 3.5
 141
@@ -5316,8 +5276,6 @@ AM_ISO$SH
    256
 177
    256
-271
-     2
 178
      2
 271
@@ -5334,16 +5292,16 @@ AM_ISO$SH
 11
 343
 2BB
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -5384,12 +5342,12 @@ mm
 0.1
  48
 0.1
- 90
-        1
  78
      7
  79
      2
+ 90
+     1
 140
 0.12
 141
@@ -5410,16 +5368,16 @@ mm
      7
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMJAG
 1070
@@ -5460,12 +5418,12 @@ mm
 0.1
  48
 0.1
- 90
-        1
  78
      7
  79
      2
+ 90
+     1
 140
 0.12
 141
@@ -5490,16 +5448,16 @@ mm
      0
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -5540,12 +5498,12 @@ mm
 0.1
  48
 0.1
- 90
-        1
  78
      7
  79
      2
+ 90
+     1
 140
 0.12
 141
@@ -5570,16 +5528,16 @@ mm
      0
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -5620,12 +5578,12 @@ mm
 0.1
  48
 0.1
- 90
-        1
  78
      7
  79
      2
+ 90
+     1
 140
 0.12
 141
@@ -5646,16 +5604,16 @@ mm
      7
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -5696,8 +5654,6 @@ mm
 0.1
  48
 0.1
- 90
-        1
  75
      1
  76
@@ -5706,6 +5662,8 @@ mm
      7
  79
      2
+ 90
+     1
 140
 0.12
 141
@@ -5726,16 +5684,16 @@ mm
      7
 340
 11
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -5776,8 +5734,6 @@ mm
 0.1
  48
 0.1
- 90
-        1
  75
      1
  76
@@ -5786,6 +5742,8 @@ mm
      7
  79
      2
+ 90
+     1
 140
 0.12
 141
@@ -5810,16 +5768,16 @@ mm
 11
 343
 2BB
-371
-    -1
-372
-    -1
 345
 14
 346
 14
 347
 14
+371
+    -1
+372
+    -1
 1001
 ACAD_DSTYLE_DIMBREAK
 1070
@@ -5845,7 +5803,7 @@ BLOCK_RECORD
 100
 AcDbSymbolTable
  70
-    19
+    28
   0
 BLOCK_RECORD
   5
@@ -6122,82 +6080,6 @@ AcDbBlockTableRecord
 *U7
 340
 0
-102
-{BLKREFS
-331
-3282
-331
-3283
-331
-3284
-331
-3285
-331
-3286
-331
-3287
-331
-3288
-331
-3289
-331
-328A
-331
-328B
-331
-328C
-331
-328D
-331
-328E
-331
-328F
-331
-3290
-331
-3291
-331
-3292
-331
-3293
-331
-3294
-331
-3295
-331
-3296
-331
-3297
-331
-3298
-331
-3299
-331
-329A
-331
-329B
-331
-329C
-331
-329D
-331
-329E
-331
-329F
-331
-32A0
-331
-32A1
-331
-32A2
-331
-32A3
-331
-32A4
-331
-32A5
-102
-}
  70
      0
 280
@@ -6238,82 +6120,6 @@ AcDbBlockTableRecord
 *U9
 340
 0
-102
-{BLKREFS
-331
-32C8
-331
-32C9
-331
-32CA
-331
-32CB
-331
-32CC
-331
-32CD
-331
-32CE
-331
-32CF
-331
-32D0
-331
-32D1
-331
-32D2
-331
-32D3
-331
-32D4
-331
-32D5
-331
-32D6
-331
-32D7
-331
-32D8
-331
-32D9
-331
-32DA
-331
-32DB
-331
-32DC
-331
-32DD
-331
-32DE
-331
-32DF
-331
-32E0
-331
-32E1
-331
-32E2
-331
-32E3
-331
-32E4
-331
-32E5
-331
-32E6
-331
-32E7
-331
-32E8
-331
-32E9
-331
-32EA
-331
-32EB
-102
-}
  70
      0
 280
@@ -6354,82 +6160,6 @@ AcDbBlockTableRecord
 *U11
 340
 0
-102
-{BLKREFS
-331
-3309
-331
-330A
-331
-330B
-331
-330C
-331
-330D
-331
-330E
-331
-330F
-331
-3310
-331
-3311
-331
-3312
-331
-3313
-331
-3314
-331
-3315
-331
-3316
-331
-3317
-331
-3318
-331
-3319
-331
-331A
-331
-331B
-331
-331C
-331
-331D
-331
-331E
-331
-331F
-331
-3320
-331
-3321
-331
-3322
-331
-3323
-331
-3324
-331
-3325
-331
-3326
-331
-3327
-331
-3328
-331
-3329
-331
-332A
-331
-332B
-331
-332C
-102
-}
  70
      0
 280
@@ -6470,82 +6200,6 @@ AcDbBlockTableRecord
 *U13
 340
 0
-102
-{BLKREFS
-331
-334E
-331
-334F
-331
-3350
-331
-3351
-331
-3352
-331
-3353
-331
-3354
-331
-3355
-331
-3356
-331
-3357
-331
-3358
-331
-3359
-331
-335A
-331
-335B
-331
-335C
-331
-335D
-331
-335E
-331
-335F
-331
-3360
-331
-3361
-331
-3362
-331
-3363
-331
-3364
-331
-3365
-331
-3366
-331
-3367
-331
-3368
-331
-3369
-331
-336A
-331
-336B
-331
-336C
-331
-336D
-331
-336E
-331
-336F
-331
-3370
-331
-3371
-102
-}
  70
      0
 280
@@ -6653,6 +6307,90 @@ AcDbBlockTableRecord
 281
      0
   0
+BLOCK_RECORD
+  5
+34F0
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*U21
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+34F4
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*U22
+340
+0
+102
+{BLKREFS
+102
+}
+ 70
+     0
+280
+     1
+281
+     1
+  0
+BLOCK_RECORD
+  5
+352D
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*U25
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+3533
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*U27
+340
+0
+ 70
+     0
+280
+     1
+281
+     1
+  0
 ENDTAB
   0
 ENDSEC
@@ -6748,6 +6486,8 @@ D8
 D6
 100
 AcDbEntity
+ 67
+     1
   8
 0
 100
@@ -6774,6 +6514,8 @@ D9
 D6
 100
 AcDbEntity
+ 67
+     1
   8
 0
 100
@@ -7825,7 +7567,7 @@ AcDbBlockReference
   2
 *U5
  10
-93.00000000000001
+93.0
  20
 124.0
  30
@@ -7857,7 +7599,7 @@ AcDbBlockReference
   2
 *U5
  10
-93.00000000000001
+93.0
  20
 155.0
  30
@@ -8285,60 +8027,6 @@ AcDbBlockBegin
   1
 
   0
-LWPOLYLINE
-  5
-327E
-330
-327C
-100
-AcDbEntity
-  8
-holder_support
-100
-AcDbPolyline
- 90
-        9
- 70
-     0
- 43
-0.0
- 10
--13.07500000458231
- 20
-15.13324361439049
- 10
--15.07500000500067
- 20
-13.13324361397212
- 10
--15.07500000500067
- 20
--13.01675639518999
- 10
--13.07500000458231
- 20
--15.13324361439049
- 10
-13.07500000458231
- 20
--15.13324361439049
- 10
-15.07500000500067
- 20
--13.12551643528127
- 10
-15.07500000500067
- 20
-13.12551643528104
- 10
-13.07500000458231
- 20
-15.13324361439049
- 10
--13.07500000458231
- 20
-15.13324361439049
-  0
 ENDBLK
   5
 327F
@@ -8376,1158 +8064,6 @@ AcDbBlockBegin
 *U8
   1
 
-  0
-INSERT
-  5
-3282
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-3283
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-0.0000000000000019
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3284
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-0.0000000000000038
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-3285
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-0.0000000000000057
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-3286
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-0.0000000000000076
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-3287
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-0.0000000000000095
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-3288
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-31.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-3289
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-31.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-328A
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-31.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-328B
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-31.00000000000001
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-328C
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-31.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-328D
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-31.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-328E
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-62.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-328F
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-62.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3290
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-62.00000000000001
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-3291
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-62.00000000000001
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-3292
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-62.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-3293
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-62.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-3294
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-93.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-3295
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-93.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3296
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-93.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-3297
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-93.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-3298
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-93.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-3299
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-93.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-329A
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-124.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-329B
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-124.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-329C
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-124.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-329D
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-124.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-329E
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-124.0
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-329F
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-124.0
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-32A0
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-155.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-32A1
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-155.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-32A2
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-155.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-32A3
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-155.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-32A4
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-155.0
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-32A5
-330
-3280
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U7
- 10
-155.0
- 20
-155.0
- 30
-0.0
   0
 ENDBLK
   5
@@ -9567,60 +8103,6 @@ AcDbBlockBegin
   1
 
   0
-LWPOLYLINE
-  5
-32C2
-330
-32C0
-100
-AcDbEntity
-  8
-holder_support
-100
-AcDbPolyline
- 90
-        9
- 70
-     0
- 43
-0.0
- 10
--13.07500000458231
- 20
-15.13324361439049
- 10
--15.07500000500067
- 20
-13.13324361397212
- 10
--15.07500000500067
- 20
--13.01675639518999
- 10
--13.07500000458231
- 20
--15.13324361439049
- 10
-13.07500000458231
- 20
--15.13324361439049
- 10
-15.07500000500067
- 20
--13.12551643528127
- 10
-15.07500000500067
- 20
-13.12551643528104
- 10
-13.07500000458231
- 20
-15.13324361439049
- 10
--13.07500000458231
- 20
-15.13324361439049
-  0
 ENDBLK
   5
 32C3
@@ -9658,1158 +8140,6 @@ AcDbBlockBegin
 *U10
   1
 
-  0
-INSERT
-  5
-32C8
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-32C9
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-0.0000000000000019
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-32CA
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-0.0000000000000038
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-32CB
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-0.0000000000000057
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-32CC
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-0.0000000000000076
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-32CD
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-0.0000000000000095
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-32CE
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-31.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-32CF
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-31.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-32D0
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-31.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-32D1
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-31.00000000000001
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-32D2
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-31.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-32D3
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-31.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-32D4
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-62.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-32D5
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-62.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-32D6
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-62.00000000000001
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-32D7
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-62.00000000000001
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-32D8
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-62.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-32D9
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-62.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-32DA
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-93.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-32DB
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-93.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-32DC
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-93.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-32DD
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-93.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-32DE
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-93.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-32DF
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-93.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-32E0
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-124.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-32E1
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-124.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-32E2
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-124.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-32E3
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-124.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-32E4
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-124.0
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-32E5
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-124.0
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-32E6
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-155.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-32E7
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-155.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-32E8
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-155.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-32E9
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-155.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-32EA
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-155.0
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-32EB
-330
-32C6
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U9
- 10
-155.0
- 20
-155.0
- 30
-0.0
   0
 ENDBLK
   5
@@ -10849,60 +8179,6 @@ AcDbBlockBegin
   1
 
   0
-LWPOLYLINE
-  5
-3305
-330
-3303
-100
-AcDbEntity
-  8
-holder_support
-100
-AcDbPolyline
- 90
-        9
- 70
-     0
- 43
-0.0
- 10
--15.07500000000027
- 20
-13.07500000000004
- 10
--15.07500000000027
- 20
--13.07500000000004
- 10
--13.07500000000027
- 20
--15.07500000000004
- 10
-13.07499999999982
- 20
--15.07500000000004
- 10
-15.07499999999982
- 20
--13.07500000000004
- 10
-15.07499999999982
- 20
-13.07500000000004
- 10
-13.07499999999982
- 20
-15.07500000000004
- 10
--13.07500000000027
- 20
-15.07500000000004
- 10
--15.07500000000027
- 20
-13.07500000000004
-  0
 ENDBLK
   5
 3306
@@ -10940,1158 +8216,6 @@ AcDbBlockBegin
 *U12
   1
 
-  0
-INSERT
-  5
-3309
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-330A
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-0.0000000000000019
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-330B
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-0.0000000000000038
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-330C
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-0.0000000000000057
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-330D
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-0.0000000000000076
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-330E
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-0.0000000000000095
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-330F
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-31.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-3310
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-31.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3311
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-31.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-3312
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-31.00000000000001
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-3313
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-31.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-3314
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-31.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-3315
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-62.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-3316
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-62.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3317
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-62.00000000000001
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-3318
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-62.00000000000001
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-3319
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-62.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-331A
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-62.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-331B
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-93.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-331C
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-93.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-331D
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-93.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-331E
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-93.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-331F
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-93.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-3320
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-93.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-3321
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-124.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-3322
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-124.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3323
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-124.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-3324
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-124.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-3325
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-124.0
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-3326
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-124.0
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-3327
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-155.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-3328
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-155.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3329
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-155.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-332A
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-155.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-332B
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-155.0
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-332C
-330
-3307
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U11
- 10
-155.0
- 20
-155.0
- 30
-0.0
   0
 ENDBLK
   5
@@ -12131,60 +8255,6 @@ AcDbBlockBegin
   1
 
   0
-LWPOLYLINE
-  5
-3348
-330
-3346
-100
-AcDbEntity
-  8
-holder_support
-100
-AcDbPolyline
- 90
-        9
- 70
-     0
- 43
-0.0
- 10
--15.07500000000027
- 20
-13.07500000000004
- 10
--15.07500000000027
- 20
--13.07500000000004
- 10
--13.07500000000027
- 20
--15.07500000000004
- 10
-13.07499999999982
- 20
--15.07500000000004
- 10
-15.07499999999982
- 20
--13.07500000000004
- 10
-15.07499999999982
- 20
-13.07500000000004
- 10
-13.07499999999982
- 20
-15.07500000000004
- 10
--13.07500000000027
- 20
-15.07500000000004
- 10
--15.07500000000027
- 20
-13.07500000000004
-  0
 ENDBLK
   5
 3349
@@ -12222,1158 +8292,6 @@ AcDbBlockBegin
 *U14
   1
 
-  0
-INSERT
-  5
-334E
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-334F
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-0.0000000000000019
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3350
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-0.0000000000000038
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-3351
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-0.0000000000000057
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-3352
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-0.0000000000000076
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-3353
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-0.0000000000000095
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-3354
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-31.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-3355
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-31.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3356
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-31.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-3357
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-31.00000000000001
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-3358
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-31.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-3359
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-31.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-335A
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-62.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-335B
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-62.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-335C
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-62.00000000000001
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-335D
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-62.00000000000001
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-335E
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-62.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-335F
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-62.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-3360
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-93.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-3361
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-93.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3362
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-93.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-3363
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-93.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-3364
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-93.00000000000001
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-3365
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-93.00000000000001
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-3366
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-124.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-3367
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-124.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-3368
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-124.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-3369
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-124.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-336A
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-124.0
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-336B
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-124.0
- 20
-155.0
- 30
-0.0
-  0
-INSERT
-  5
-336C
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-155.0
- 20
-0.0
- 30
-0.0
-  0
-INSERT
-  5
-336D
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-155.0
- 20
-31.0
- 30
-0.0
-  0
-INSERT
-  5
-336E
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-155.0
- 20
-62.0
- 30
-0.0
-  0
-INSERT
-  5
-336F
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-155.0
- 20
-93.0
- 30
-0.0
-  0
-INSERT
-  5
-3370
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-155.0
- 20
-124.0
- 30
-0.0
-  0
-INSERT
-  5
-3371
-330
-334C
-100
-AcDbEntity
-  8
-holder_support
-  6
-ByBlock
-347
-ED
- 62
-     0
-440
- 16777216
-370
-    -2
-380
-     1
-100
-AcDbBlockReference
-  2
-*U13
- 10
-155.0
- 20
-155.0
- 30
-0.0
   0
 ENDBLK
   5
@@ -13763,13 +8681,13 @@ ByBlock
 100
 AcDbLine
  10
-2345.141454797542
+2345.141454797543
  20
 1513.435246206182
  30
 0.0
  11
-2345.141454797542
+2345.141454797543
  21
 1528.524852371381
  31
@@ -13815,7 +8733,7 @@ ByBlock
 100
 AcDbLine
  10
-2345.141454797542
+2345.141454797543
  20
 1527.524852371381
  30
@@ -13841,7 +8759,7 @@ ByBlock
 100
 AcDbLine
  10
-2345.141454797542
+2345.141454797543
  20
 1527.524852371381
  30
@@ -13873,7 +8791,7 @@ AcDbLine
  30
 0.0
  11
-2352.141454797542
+2352.141454797543
  21
 1527.524852371381
  31
@@ -13903,13 +8821,13 @@ AcDbTrace
  31
 0.0
  12
-2345.141454797542
+2345.141454797543
  22
 1527.524852371381
  32
 0.0
  13
-2345.141454797542
+2345.141454797543
  23
 1527.524852371381
  33
@@ -14001,7 +8919,7 @@ Defpoints
 100
 AcDbPoint
  10
-2345.141454797542
+2345.141454797543
  20
 1512.435246206182
  30
@@ -14125,13 +9043,13 @@ ByBlock
 100
 AcDbLine
  10
-2304.89659556873
+2304.896595568731
  20
 1513.435246206182
  30
 0.0
  11
-2304.89659556873
+2304.896595568731
  21
 1525.718862919171
  31
@@ -14183,7 +9101,7 @@ AcDbLine
  30
 0.0
  11
-2304.89659556873
+2304.896595568731
  21
 1524.718862919171
  31
@@ -14275,13 +9193,13 @@ AcDbTrace
  31
 0.0
  12
-2304.89659556873
+2304.896595568731
  22
 1524.718862919171
  32
 0.0
  13
-2304.89659556873
+2304.896595568731
  23
 1524.718862919171
  33
@@ -14357,7 +9275,7 @@ Defpoints
 100
 AcDbPoint
  10
-2304.89659556873
+2304.896595568731
  20
 1512.435246206182
  30
@@ -14377,7 +9295,7 @@ Defpoints
 100
 AcDbPoint
  10
-2304.89659556873
+2304.896595568731
  20
 1524.718862919171
  30
@@ -14547,7 +9465,7 @@ AcDbLine
  11
 2263.491780805696
  21
-1525.921555972068
+1525.921555972067
  31
 0.0
   0
@@ -14599,7 +9517,7 @@ AM_0
 100
 AcDbTrace
  10
-2258.397683662264
+2258.397683662265
  20
 1514.479743213208
  30
@@ -14655,9 +9573,9 @@ AcDbMText
   1
 2.01
  11
-0.4488355099727527
+0.4488355099727526
  21
-0.8936143939012505
+0.8936143939012502
  31
 0.0
  73
@@ -14730,6 +9648,158 @@ ENDBLK
 346D
 330
 346B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+34F1
+330
+34F0
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*U21
+ 70
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*U21
+  1
+
+  0
+ENDBLK
+  5
+34F3
+330
+34F0
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+34F5
+330
+34F4
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*U22
+ 70
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*U22
+  1
+
+  0
+ENDBLK
+  5
+3514
+330
+34F4
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+352E
+330
+352D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*U25
+ 70
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*U25
+  1
+
+  0
+ENDBLK
+  5
+3530
+330
+352D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+3534
+330
+3533
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*U27
+ 70
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*U27
+  1
+
+  0
+ENDBLK
+  5
+3553
+330
+3533
 100
 AcDbEntity
   8
@@ -14810,8 +9880,6 @@ ARC
 {ACAD_REACTORS
 330
 236B
-330
-346A
 102
 }
 330
@@ -14868,26 +9936,6 @@ AcDbArc
 30.22316503543315
  51
 149.7685792567049
-  0
-CIRCLE
-  5
-2325
-330
-1F
-100
-AcDbEntity
-  8
-holder_hole
-100
-AcDbCircle
- 10
-2325.015379090327
- 20
-1612.510246202183
- 30
-0.0
- 40
-0.5
   0
 CIRCLE
   5
@@ -15011,7 +10059,7 @@ AcDbPolyline
  43
 0.0
  10
-2304.89659556873
+2304.896595568731
  20
 1648.435246206182
  10
@@ -15023,11 +10071,11 @@ AcDbPolyline
  20
 1678.585246198182
  10
-2304.89659556873
+2304.896595568731
  20
 1678.585246198182
  10
-2304.89659556873
+2304.896595568731
  20
 1648.435246206182
   0
@@ -15072,10 +10120,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 325E
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15091,7 +10135,7 @@ AcDbPolyline
  43
 0.0
  10
-2410.488884399949
+2410.48888439995
  20
 1546.435246206183
  10
@@ -15103,21 +10147,17 @@ AcDbPolyline
  20
 1576.585246198182
  10
-2410.488884399949
+2410.48888439995
  20
 1576.585246198182
  10
-2410.488884399949
+2410.48888439995
  20
 1546.435246206183
   0
 LWPOLYLINE
   5
 3427
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15133,7 +10173,7 @@ AcDbPolyline
  43
 0.0
  10
-2410.488884399949
+2410.48888439995
  20
 1580.435246206183
  10
@@ -15145,21 +10185,17 @@ AcDbPolyline
  20
 1610.585246198182
  10
-2410.488884399949
+2410.48888439995
  20
 1610.585246198182
  10
-2410.488884399949
+2410.48888439995
  20
 1580.435246206183
   0
 LWPOLYLINE
   5
 3428
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15175,7 +10211,7 @@ AcDbPolyline
  43
 0.0
  10
-2410.488884399949
+2410.48888439995
  20
 1614.435246206183
  10
@@ -15187,21 +10223,17 @@ AcDbPolyline
  20
 1644.585246198182
  10
-2410.488884399949
+2410.48888439995
  20
 1644.585246198182
  10
-2410.488884399949
+2410.48888439995
  20
 1614.435246206183
   0
 LWPOLYLINE
   5
 3429
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15217,7 +10249,7 @@ AcDbPolyline
  43
 0.0
  10
-2410.488884399949
+2410.48888439995
  20
 1648.435246206183
  10
@@ -15229,21 +10261,17 @@ AcDbPolyline
  20
 1678.585246198182
  10
-2410.488884399949
+2410.48888439995
  20
 1678.585246198182
  10
-2410.488884399949
+2410.48888439995
  20
 1648.435246206183
   0
 LWPOLYLINE
   5
 342C
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15282,10 +10310,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 342D
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15324,10 +10348,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 342E
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15366,10 +10386,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 342F
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15408,10 +10424,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3431
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15431,11 +10443,11 @@ AcDbPolyline
  20
 1614.435246206182
  10
-2304.89659556873
+2304.896595568731
  20
 1614.435246206182
  10
-2304.89659556873
+2304.896595568731
  20
 1644.585246198181
  10
@@ -15450,10 +10462,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3432
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15473,11 +10481,11 @@ AcDbPolyline
  20
 1580.435246206182
  10
-2304.89659556873
+2304.896595568731
  20
 1580.435246206182
  10
-2304.89659556873
+2304.896595568731
  20
 1610.585246198181
  10
@@ -15492,10 +10500,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3433
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15515,11 +10519,11 @@ AcDbPolyline
  20
 1546.435246206182
  10
-2304.89659556873
+2304.896595568731
  20
 1546.435246206182
  10
-2304.89659556873
+2304.896595568731
  20
 1576.585246198181
  10
@@ -15534,10 +10538,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3434
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15576,10 +10576,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3435
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15618,10 +10614,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3436
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15698,10 +10690,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 343D
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15721,11 +10709,11 @@ AcDbPolyline
  20
 1614.435246206182
  10
-2345.141454797542
+2345.141454797543
  20
 1614.435246206182
  10
-2345.141454797542
+2345.141454797543
  20
 1644.585246198181
  10
@@ -15740,10 +10728,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 343E
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15763,11 +10747,11 @@ AcDbPolyline
  20
 1580.435246206182
  10
-2345.141454797542
+2345.141454797543
  20
 1580.435246206182
  10
-2345.141454797542
+2345.141454797543
  20
 1610.585246198181
  10
@@ -15782,10 +10766,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 343F
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15805,11 +10785,11 @@ AcDbPolyline
  20
 1546.435246206182
  10
-2345.141454797542
+2345.141454797543
  20
 1546.435246206182
  10
-2345.141454797542
+2345.141454797543
  20
 1576.585246198181
  10
@@ -15824,14 +10804,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3440
-102
-{ACAD_REACTORS
-330
-3459
-330
-346A
-102
-}
 330
 1F
 100
@@ -15851,11 +10823,11 @@ AcDbPolyline
  20
 1512.435246206182
  10
-2304.89659556873
+2304.896595568731
  20
 1512.435246206182
  10
-2304.89659556873
+2304.896595568731
  20
 1542.585246198181
  10
@@ -15870,14 +10842,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3441
-102
-{ACAD_REACTORS
-330
-3448
-330
-3459
-102
-}
 330
 1F
 100
@@ -15916,12 +10880,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3442
-102
-{ACAD_REACTORS
-330
-3448
-102
-}
 330
 1F
 100
@@ -15941,11 +10899,11 @@ AcDbPolyline
  20
 1512.435246206182
  10
-2345.141454797542
+2345.141454797543
  20
 1512.435246206182
  10
-2345.141454797542
+2345.141454797543
  20
 1542.585246198181
  10
@@ -15960,10 +10918,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3443
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -15983,11 +10937,11 @@ AcDbPolyline
  20
 1682.435246206182
  10
-2304.89659556873
+2304.896595568731
  20
 1682.435246206182
  10
-2304.89659556873
+2304.896595568731
  20
 1712.585246198181
  10
@@ -16002,10 +10956,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3444
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -16044,10 +10994,6 @@ AcDbPolyline
 LWPOLYLINE
   5
 3445
-102
-{ACAD_REACTORS
-102
-}
 330
 1F
 100
@@ -16067,11 +11013,11 @@ AcDbPolyline
  20
 1682.435246206182
  10
-2345.141454797542
+2345.141454797543
  20
 1682.435246206182
  10
-2345.141454797542
+2345.141454797543
  20
 1712.585246198181
  10
@@ -16177,7 +11123,7 @@ EF
   3
 ACDB_RECOMPOSE_DATA
 350
-3491
+3594
   3
 AcDbVariableDictionary
 350
@@ -16209,7 +11155,7 @@ AcDbSun
  90
         1
 290
-     0
+     1
  63
      7
 421
@@ -16225,7 +11171,7 @@ AcDbSun
 292
      0
  70
-     2
+     0
  71
    256
 280
@@ -16405,7 +11351,13 @@ C
 100
 AcDbIdSet
  90
-        0
+        3
+330
+34DF
+330
+34E0
+330
+34E1
 100
 AcDbFieldList
   0
@@ -16863,7 +11815,7 @@ X-Ray
   0
 XRECORD
   5
-3491
+3594
 102
 {ACAD_REACTORS
 330
@@ -16880,6 +11832,14 @@ AcDbXrecord
         1
 330
 7F
+330
+21A
+330
+21C
+330
+2F7E
+330
+2F82
   0
 DICTIONARY
   5
@@ -17095,183 +12055,65 @@ AcDbSortentsTable
 330
 1F
 331
-1342
-  5
-134B
-331
-1343
-  5
-134D
-331
-1344
-  5
-134F
-331
-1345
-  5
-1351
-331
-2325
-  5
-16F7
-331
-2E98
-  5
-2E98
-331
-2E99
-  5
-2E99
-331
 2E9A
   5
 2E9A
 331
-2E9B
+2E99
   5
-2E9B
-331
-0
-  5
-3247
-331
-0
-  5
-3248
-331
-324E
-  5
-3249
-331
-0
-  5
-324A
-331
-0
-  5
-324C
+2E99
 331
 3252
   5
 324D
 331
-0
+2E98
   5
+2E98
+331
 324E
-331
-0
   5
-324F
-331
-0
-  5
-3250
-331
-0
-  5
-3251
-331
-0
-  5
-3252
-331
-0
-  5
-3253
-331
-0
-  5
-3254
-331
-0
-  5
-3255
-331
-0
-  5
-3256
-331
-0
-  5
-3257
-331
-0
-  5
-3258
+3249
 331
 325E
   5
 3259
 331
-0
+1345
   5
-325A
+1351
 331
-0
+1344
   5
-325B
+134F
 331
-0
+1343
   5
-325C
+134D
 331
-0
+1342
   5
-325D
+134B
 331
-0
+2E9B
   5
-325E
-331
-0
-  5
-325F
-331
-0
-  5
-3260
-331
-0
-  5
-3261
-331
-0
-  5
-3262
-331
-0
-  5
-3263
-331
-0
-  5
-3265
-331
-0
-  5
-3266
-331
-0
-  5
-3267
-331
-0
-  5
-3268
+2E9B
   0
 ACDBDETAILVIEWSTYLE
   5
 2F82
 102
-{ACAD_REACTORS
-330
-21B
+{ACAD_XDICTIONARY
+360
+3592
 102
 }
 102
-{ACAD_XDICTIONARY
-360
-2F83
+{ACAD_REACTORS
+330
+21B
+330
+34D9
 102
 }
 330
@@ -17357,15 +12199,17 @@ ACDBDETAILVIEWSTYLE
   5
 21C
 102
-{ACAD_REACTORS
-330
-21B
+{ACAD_XDICTIONARY
+360
+358E
 102
 }
 102
-{ACAD_XDICTIONARY
-360
-236
+{ACAD_REACTORS
+330
+21B
+330
+34DA
 102
 }
 330
@@ -17564,14 +12408,14 @@ C:\Documents and Settings\basas\Application Data\Autodesk\AutoCAD 2005\R16.1\enu
 
  75
     16
+147
+1.0
  76
      0
  77
      2
  78
    300
-147
-1.0
 148
 0.0
 149
@@ -17589,9 +12433,9 @@ Layout1
  20
 0.0
  11
-12.0
+0.0
  21
-9.0
+0.0
  12
 0.0
  22
@@ -17696,14 +12540,14 @@ C:\Documents and Settings\basas\Application Data\Autodesk\AutoCAD 2005\R16.1\enu
 
  75
     16
+147
+1.0
  76
      0
  77
      2
  78
    300
-147
-1.0
 148
 0.0
 149
@@ -17828,14 +12672,14 @@ ISO_A4_(210.00_x_297.00_MM)
 
  75
      0
+147
+0.1148885871608098
  76
      0
  77
      2
  78
    300
-147
-0.1148885871608098
 148
 0.0
 149
@@ -17917,15 +12761,15 @@ MATERIAL
   5
 ED
 102
-{ACAD_REACTORS
-330
-6A
-102
-}
-102
 {ACAD_XDICTIONARY
 360
 1F9
+102
+}
+102
+{ACAD_REACTORS
+330
+6A
 102
 }
 330
@@ -17934,8 +12778,6 @@ ED
 AcDbMaterial
   1
 ByBlock
- 72
-     1
  94
        63
   0
@@ -17943,15 +12785,15 @@ MATERIAL
   5
 EC
 102
-{ACAD_REACTORS
-330
-6A
-102
-}
-102
 {ACAD_XDICTIONARY
 360
 1F7
+102
+}
+102
+{ACAD_REACTORS
+330
+6A
 102
 }
 330
@@ -17960,8 +12802,6 @@ EC
 AcDbMaterial
   1
 ByLayer
- 72
-     1
  94
        63
   0
@@ -17969,15 +12809,15 @@ MATERIAL
   5
 EE
 102
-{ACAD_REACTORS
-330
-6A
-102
-}
-102
 {ACAD_XDICTIONARY
 360
 173
+102
+}
+102
+{ACAD_REACTORS
+330
+6A
 102
 }
 330
@@ -17986,8 +12826,6 @@ EE
 AcDbMaterial
   1
 Global
- 72
-     1
  43
 0.0007999999797903
  43
@@ -18178,8 +13016,6 @@ AcDbMLeaderStyle
 8.0
   3
 Standard
-341
-0
  44
 4.0
 300
@@ -18204,8 +13040,6 @@ Standard
      0
  46
 4.0
-343
-0
  94
 -1056964608
  47
@@ -18284,8 +13118,6 @@ AcDbMLeaderStyle
 8.0
   3
 Standard
-341
-0
  44
 4.0
 300
@@ -18310,8 +13142,6 @@ Standard
      0
  46
 4.0
-343
-0
  94
 -1056964608
  47
@@ -18809,15 +13639,17 @@ ACDBSECTIONVIEWSTYLE
   5
 2F7E
 102
-{ACAD_REACTORS
-330
-219
+{ACAD_XDICTIONARY
+360
+3590
 102
 }
 102
-{ACAD_XDICTIONARY
-360
-2F7F
+{ACAD_REACTORS
+330
+219
+330
+34D7
 102
 }
 330
@@ -18935,15 +13767,17 @@ ACDBSECTIONVIEWSTYLE
   5
 21A
 102
-{ACAD_REACTORS
-330
-219
+{ACAD_XDICTIONARY
+360
+358C
 102
 }
 102
-{ACAD_XDICTIONARY
-360
-234
+{ACAD_REACTORS
+330
+219
+330
+34D8
 102
 }
 330
@@ -19061,21 +13895,23 @@ TABLESTYLE
   5
 7F
 102
-{ACAD_REACTORS
-330
-7E
-102
-}
-102
 {ACAD_XDICTIONARY
 360
 348F
+102
+}
+102
+{ACAD_REACTORS
+330
+7E
 102
 }
 330
 7E
 100
 AcDbTableStyle
+280
+     0
   3
 Standard
  70
@@ -19099,7 +13935,7 @@ Standard
  62
      0
  63
-   257
+     7
 283
      0
  90
@@ -19153,7 +13989,7 @@ Standard
  62
      0
  63
-   257
+     7
 283
      0
  90
@@ -19207,7 +14043,7 @@ Standard
  62
      0
  63
-   257
+     7
 283
      0
  90
@@ -25567,7 +20403,7 @@ DictionaryVariables
 280
      0
   1
-Standard
+STANDARD
   0
 DICTIONARYVAR
   5
@@ -25585,7 +20421,7 @@ DictionaryVariables
 280
      0
   1
-Standard
+STANDARD
   0
 DICTIONARYVAR
   5
@@ -25713,7 +20549,7 @@ AcDbDictionary
   0
 DICTIONARY
   5
-2F83
+3592
 330
 2F82
 100
@@ -25725,11 +20561,11 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-348B
+3593
   0
 DICTIONARY
   5
-236
+358E
 330
 21C
 100
@@ -25741,7 +20577,7 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-348C
+358F
   0
 DICTIONARY
   5
@@ -25793,7 +20629,7 @@ FBXASSET
   0
 DICTIONARY
   5
-2F7F
+3590
 330
 2F7E
 100
@@ -25805,11 +20641,11 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-348D
+3591
   0
 DICTIONARY
   5
-234
+358C
 330
 21A
 100
@@ -25821,7 +20657,7 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-348E
+358D
   0
 DICTIONARY
   5
@@ -25837,19 +20673,19 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-3490
+358B
   0
 XRECORD
   5
-348B
+3593
 102
 {ACAD_REACTORS
 330
-2F83
+3592
 102
 }
 330
-2F83
+3592
 100
 AcDbXrecord
 280
@@ -25865,15 +20701,15 @@ FLAGS
   0
 XRECORD
   5
-348C
+358F
 102
 {ACAD_REACTORS
 330
-236
+358E
 102
 }
 330
-236
+358E
 100
 AcDbXrecord
 280
@@ -26225,15 +21061,15 @@ EEB55BFE0D504B010214000A0000080000CC70623B3DEE336E79000000790000001B000000000000
   0
 XRECORD
   5
-348D
+3591
 102
 {ACAD_REACTORS
 330
-2F7F
+3590
 102
 }
 330
-2F7F
+3590
 100
 AcDbXrecord
 280
@@ -26249,15 +21085,15 @@ FLAGS
   0
 XRECORD
   5
-348E
+358D
 102
 {ACAD_REACTORS
 330
-234
+358C
 102
 }
 330
-234
+358C
 100
 AcDbXrecord
 280
@@ -26273,7 +21109,7 @@ FLAGS
   0
 CELLSTYLEMAP
   5
-3490
+358B
 102
 {ACAD_REACTORS
 330
@@ -26925,7 +21761,7 @@ ACDSDATA
  70
      2
  71
-     2
+     8
   0
 ACDSSCHEMA
  90
@@ -26949,7 +21785,7 @@ ACDSRECORD
  95
         0
  90
-        2
+        1
   2
 AcDbDs::TreatedAsObjectData
 280
@@ -26961,7 +21797,7 @@ ACDSRECORD
  95
         0
  90
-        3
+        2
   2
 AcDbDs::Legacy
 280
@@ -26973,63 +21809,9 @@ ACDSRECORD
   1
 AcDbDs::ID
  90
-        4
-  2
-AcDs:Indexable
-280
-     1
-291
-     1
-101
-ACDSRECORD
-  1
-AcDbDs::ID
- 90
-        5
-  2
-AcDbDs::HandleAttribute
-280
-     7
-282
-     1
-  0
-ACDSSCHEMA
- 90
-        1
-  1
-AcDb3DSolid_ASM_Data
-  2
-AcDbDs::ID
-280
-    10
- 91
-        8
-  2
-ASM_Data
-280
-    15
- 91
-        0
-101
-ACDSRECORD
- 95
-        1
- 90
-        2
-  2
-AcDbDs::TreatedAsObjectData
-280
-     1
-291
-     1
-101
-ACDSRECORD
- 95
-        1
- 90
         3
   2
-AcDbDs::Legacy
+AcDs:Indexable
 280
      1
 291
@@ -27041,18 +21823,6 @@ AcDbDs::ID
  90
         4
   2
-AcDs:Indexable
-280
-     1
-291
-     1
-101
-ACDSRECORD
-  1
-AcDbDs::ID
- 90
-        5
-  2
 AcDbDs::HandleAttribute
 280
      7
@@ -27061,7 +21831,7 @@ AcDbDs::HandleAttribute
   0
 ACDSSCHEMA
  90
-        2
+        1
   1
 AcDbDs::TreatedAsObjectDataSchema
   2
@@ -27073,7 +21843,7 @@ AcDbDs::TreatedAsObjectData
   0
 ACDSSCHEMA
  90
-        3
+        2
   1
 AcDbDs::LegacySchema
   2
@@ -27085,7 +21855,7 @@ AcDbDs::Legacy
   0
 ACDSSCHEMA
  90
-        4
+        3
   1
 AcDbDs::IndexedPropertySchema
   2
@@ -27097,7 +21867,7 @@ AcDs:Indexable
   0
 ACDSSCHEMA
  90
-        5
+        4
   1
 AcDbDs::HandleAttributeSchema
   2
@@ -27137,13 +21907,13 @@ FF3366FF6666FF9966FFCC66FFFF9900009900339900669900999900CC9900FF9933009933339933
 310
 FF3366FF3399FF33CCFF33FFFF6600FF6633FF6666FF6699FF66CCFF66FFFF9900FF9933FF9966FF9999FF99CCFF99FFFFCC00FFCC33FFCC66FFCC99FFCCCCFFCCFFFFFF00FFFF33FFFF66FFFF99FFFFCCFFFFFF0000000D0D0D1A1A1A2828283535354343435050505D5D5D6B6B6B787878868686939393A1A1A1AEAEAEBB
 310
-BBBBC9C9C9D6D6D6E4E4E4F1F1F1FFFFFF000000000000000000000000000000000000000000000000000000000000B21171F6000001924944415478DAEDDD410E83300C44D11C3067F68293556D57040912E2948EFD674769A5FA1190BC882985104208216465AC4DB6E2FB3ECC527C1E848EFA221374D6169560A0AE8804
+BBBBC9C9C9D6D6D6E4E4E4F1F1F1FFFFFF000000000000000000000000000000000000000000000000000000000000B21171F60000017D4944415478DAEDDC417283300C40511F90337BC1C9CA34ED0C496963029D20E9FD9D439241DF328916526B00000000F0CFF41B7543DF5A14097EFCE584E1BF7A31C9E61F7E4760E6
 310
-83354523B8514F24829BB58421B0077EF957F56FF76321AEFFB63BDE9AC3F3931661FDCF00A80B7C9E635300DA8F42EBABF1E2A489D73F0D202B60C5094054C04AF501A89A02EFFAAB0740D514B0EFA5735A017A02367A9B5F9E34D9FA9D00B404B2035859002024D0FCD3896E50B33B9EE97FCF394CE4FA3717CEEB1650E9
+357FADE6A4BBBF8E6B09F9D7559B7BCEA33F2E20DFC3A0DFE21A16F0F5895CF1EF13902909BE43D927204F12F487B88605E430B0CAE4DD02321C83BE15D7B080F849B0DCFF7444C014DCC067FCD3EB02A6E8067A3B9C01A105F4536A819E25FEB77FCF1BE21FDEF3C70CB85FF5B802064FFD8F67C0FDC51EF6009C2420A481
 310
-0D0100000000000000000000000080B400ABBA415600000000000000000000000000000000DD2000DC020000000000000000000000000000007483AC0000000000000000000000000000E0618165002A3B27577583AA7B67BDB6CECAEE9E66FB7C4280F4132476FFD70540728A8AE31015C9393A8E6374442729B9AD00F159
+5DF5DF330111FF129E2BA0114000010410400001E1049C530B10E008104000010410400001041040805A209480CB7E9D0CF00C20800002082080000208208000B5806A5006780610400001041040C08505446C20ACDE2FA0638480E5BECFA905D2F4CD95EB1BD439AA77B87CF7B8F9012648B4F233445671EC14906F8ECECE
 310
-5A696789314D8E798225FD44C9C24CD143773C041063AEAEDB2025ED47E1CF7E168520F978F5E403F693BF6221F64B366CFA1B010C6CFC547C846CEF5A3ABC6AAA104208218410420879342FDE6A0E0EC8C03AEC0000000049454E44AE426082
+39422D13D527499925D6CA4F933B500BE4CA82D213259FFFB85519ABBAB5CDD5260CAF6609D79DAE5C6FDB010000000000000000AEC4078D2277E57E579DB10000000049454E44AE4260822FDE6A0E0EC8C03AEC0000000049454E44AE426082
   0
 ENDSEC
   0

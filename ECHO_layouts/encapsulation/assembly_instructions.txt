@@ -1,0 +1,10 @@
+Assembly order
+
+1)	1.6mm thick encapsulation_support_0 (54x54 window)
+2)	1.6mm thick encapsulation_support_3 with 56x56 glass and 4 UV-mask glued
+3)	0.9mm thick encapsulation_support_2 (encapsulation glasses aligner)
+4)	0.9mm thick encapsulation_support_3 (substrate aligner)
+5)	1.6mm thick encapsulation_support_0 (solid plate for compression)
+
+Others
+0.9 mm thick encapsulation_support_4 to aling UV shadow before glueing
