@@ -97,7 +97,7 @@ Standard
   9
 $CLAYER
   8
-pixel-electrode-large-lower
+TC-etch-lines-laser
   9
 $CELTYPE
   6
@@ -497,19 +497,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2457828.57261419
+2458309.587535648
   9
 $TDUUPDATE
  40
-2457828.57261419
+2458309.587535648
   9
 $TDINDWG
  40
-0.000000081
+0.0000000926
   9
 $TDUSRTIMER
  40
-2457828.546405706
+0.019683125
   9
 $USRTIMER
  70
@@ -549,7 +549,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-5D1
+6B4
   9
 $SURFTAB1
  70
@@ -1315,7 +1315,7 @@ ObjectDBX Classes
  90
         0
  91
-        5
+        4
 280
      0
 281
@@ -1361,9 +1361,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-58.08834630264698
+34.92016976504663
  22
-30.77777822396414
+34.30744351862193
  13
 0.0
  23
@@ -1383,15 +1383,15 @@ AcDbViewportTableRecord
  36
 1.0
  17
--27.66959356597987
+-27.66959356597991
  27
--19.53870295786197
+-19.53870295786194
  37
 0.0
  40
-83.99246410570444
+43.00414162212068
  41
-1.676792223572297
+1.812729498164015
  42
 50.0
  43
@@ -1563,7 +1563,7 @@ LAYER
 100
 AcDbSymbolTable
  70
-    17
+    18
   0
 LAYER
   5
@@ -1579,7 +1579,7 @@ AcDbLayerTableRecord
  70
      0
  62
-     7
+    -7
   6
 Continuous
 370
@@ -1605,7 +1605,7 @@ Defpoints
  70
      0
  62
-     7
+    -7
   6
 Continuous
 290
@@ -1665,11 +1665,11 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-TC-etch-lines
+TC-etch-lines-chemical
  70
      0
  62
-     1
+    -1
   6
 Continuous
 370
@@ -1705,7 +1705,7 @@ encapsulation
  70
      0
  62
-     3
+    -3
   6
 Continuous
 370
@@ -1741,7 +1741,7 @@ lightMask-small-upper
  70
      0
  62
-     2
+    -2
   6
 Continuous
 370
@@ -1777,7 +1777,7 @@ pinPlacements
  70
      0
  62
-     6
+    -6
   6
 Continuous
 370
@@ -1849,7 +1849,7 @@ lightMask-small-lower
  70
      0
  62
-     2
+    -2
   6
 Continuous
 370
@@ -1885,7 +1885,7 @@ pixel-electrodes-small-upper
  70
      0
  62
-     4
+    -4
   6
 Continuous
 370
@@ -1957,7 +1957,7 @@ pixel-electrode-large-lower
  70
      0
  62
-     4
+    -4
   6
 Continuous
 370
@@ -2029,7 +2029,7 @@ lightMask-large-upper
  70
      0
  62
-     2
+    -2
   6
 Continuous
 370
@@ -2065,7 +2065,7 @@ lightMask-large-lower
  70
      0
  62
-     2
+    -2
   6
 Continuous
 370
@@ -2101,7 +2101,7 @@ TC-electrode-large
  70
      0
  62
-     4
+    -4
   6
 Continuous
 370
@@ -2137,7 +2137,43 @@ active-layer-mask
  70
      0
  62
-     3
+    -3
+  6
+Continuous
+370
+    -3
+390
+F
+347
+98
+348
+0
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+ACCMTRANSPARENCY
+1071
+ 33554687
+  0
+LAYER
+  5
+5EE
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+TC-etch-lines-laser
+ 70
+     0
+ 62
+     1
   6
 Continuous
 370
@@ -2833,7 +2869,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -3005,7 +3041,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -3177,7 +3213,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -3349,7 +3385,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -3521,7 +3557,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -3693,7 +3729,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -3865,7 +3901,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -4037,7 +4073,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -4209,7 +4245,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -4381,7 +4417,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -4553,7 +4589,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -4725,7 +4761,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -18231,7 +18267,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -18403,7 +18439,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -18575,7 +18611,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -19631,7 +19667,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -19803,7 +19839,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -19975,7 +20011,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -20371,7 +20407,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
  62
      1
 100
@@ -20397,7 +20433,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
  62
      1
 100
@@ -20423,7 +20459,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
  62
      1
 100
@@ -20449,7 +20485,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
  62
      1
 100
@@ -20475,7 +20511,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -20499,7 +20535,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -20523,7 +20559,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -20547,7 +20583,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -20571,7 +20607,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -20595,7 +20631,7 @@ LINE
 100
 AcDbEntity
   8
-TC-etch-lines
+TC-etch-lines-chemical
 100
 AcDbLine
  10
@@ -21029,7 +21065,7 @@ AcDbArc
  50
 0.0
  51
-78.3427963648469
+78.34279636484692
   0
 ARC
   5
@@ -25823,7 +25859,7 @@ AcDbCircle
 100
 AcDbArc
  50
-95.33861625587551
+95.33861625587552
  51
 179.9988542407989
   0
@@ -26597,7 +26633,7 @@ AcDbArc
  50
 359.9998549506012
  51
-89.9998549506008
+89.99985495060079
   0
 LINE
   5
@@ -27015,6 +27051,550 @@ AcDbPolyline
  42
 -0.414213332946044
   0
+LINE
+  5
+681
+330
+1F
+100
+AcDbEntity
+  8
+TC-etch-lines-laser
+100
+AcDbLine
+ 10
+30.0
+ 20
+29.50001871999221
+ 30
+0.0
+ 11
+0.0000000000000036
+ 21
+29.50001871999361
+ 31
+0.0
+1001
+GENIUS_GENREC_14
+1002
+{
+1000
+PYDIR
+1011
+12.82750000000129
+1021
+29.50001871999301
+1031
+0.0
+1002
+}
+1002
+{
+1000
+PXDIR
+1011
+17.54000000000145
+1021
+27.46001871999044
+1031
+0.0
+1002
+}
+1002
+{
+1000
+PORI
+1011
+12.46000000000154
+1021
+27.46001871999068
+1031
+0.0
+1002
+}
+1002
+{
+1000
+PINS
+1011
+12.46000000000154
+1021
+27.46001871999068
+1031
+0.0
+1002
+}
+1002
+{
+1000
+HVAL
+1000
+1.6
+1002
+}
+1002
+{
+1000
+H
+1070
+     2
+1002
+}
+1002
+{
+1000
+WVAL
+1000
+4.14
+1002
+}
+1002
+{
+1000
+W
+1070
+     2
+1002
+}
+1002
+{
+1000
+C
+1070
+     1
+1002
+}
+1001
+GENIUS_GENODEF_13
+1002
+{
+1000
+HIER
+1070
+     0
+1002
+}
+1002
+{
+1000
+MANEDIT
+1070
+     0
+1002
+}
+1002
+{
+1000
+NOSEL
+1070
+     0
+1002
+}
+1002
+{
+1000
+BEHIND
+1070
+     0
+1002
+}
+1002
+{
+1000
+OTHER
+1070
+     0
+1002
+}
+1002
+{
+1000
+REACTOR
+1002
+}
+1001
+GENIUS_GENOBJ-N-REC_13
+1002
+{
+1000
+OWNER
+1000
+GEN
+1002
+}
+  0
+LINE
+  5
+688
+330
+1F
+100
+AcDbEntity
+  8
+TC-etch-lines-laser
+100
+AcDbLine
+ 10
+29.99999999999999
+ 20
+0.4999812800068675
+ 30
+0.0
+ 11
+0.0000000000000036
+ 21
+0.4999812800068675
+ 31
+0.0
+1001
+GENIUS_GENREC_14
+1002
+{
+1000
+PYDIR
+1011
+12.8275000000006
+1021
+0.4999812800068675
+1031
+0.0
+1002
+}
+1002
+{
+1000
+PXDIR
+1011
+17.54000000000087
+1021
+2.539981280009215
+1031
+0.0
+1002
+}
+1002
+{
+1000
+PORI
+1011
+12.46000000000095
+1021
+2.539981280009215
+1031
+0.0
+1002
+}
+1002
+{
+1000
+PINS
+1011
+12.46000000000095
+1021
+2.539981280009215
+1031
+0.0
+1002
+}
+1002
+{
+1000
+HVAL
+1000
+1.6
+1002
+}
+1002
+{
+1000
+H
+1070
+     2
+1002
+}
+1002
+{
+1000
+WVAL
+1000
+4.14
+1002
+}
+1002
+{
+1000
+W
+1070
+     2
+1002
+}
+1002
+{
+1000
+C
+1070
+     1
+1002
+}
+1001
+GENIUS_GENODEF_13
+1002
+{
+1000
+HIER
+1070
+     0
+1002
+}
+1002
+{
+1000
+MANEDIT
+1070
+     0
+1002
+}
+1002
+{
+1000
+NOSEL
+1070
+     0
+1002
+}
+1002
+{
+1000
+BEHIND
+1070
+     0
+1002
+}
+1002
+{
+1000
+OTHER
+1070
+     0
+1002
+}
+1002
+{
+1000
+REACTOR
+1002
+}
+1001
+GENIUS_GENOBJ-N-REC_13
+1002
+{
+1000
+OWNER
+1000
+GEN
+1002
+}
+  0
+LINE
+  5
+690
+330
+1F
+100
+AcDbEntity
+  8
+TC-etch-lines-laser
+ 62
+     1
+100
+AcDbLine
+ 10
+0.4997663313110099
+ 20
+29.99999999999909
+ 30
+0.0
+ 11
+0.4998240338379508
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+691
+330
+1F
+100
+AcDbEntity
+  8
+TC-etch-lines-laser
+ 62
+     1
+100
+AcDbLine
+ 10
+-0.0000000000000001
+ 20
+4.997038072802982
+ 30
+0.0
+ 11
+30.0
+ 21
+4.996995006605213
+ 31
+0.0
+  0
+LINE
+  5
+692
+330
+1F
+100
+AcDbEntity
+  8
+TC-etch-lines-laser
+ 62
+     1
+100
+AcDbLine
+ 10
+29.49986928788678
+ 20
+0.0
+ 30
+0.0
+ 11
+29.49981158535985
+ 21
+29.99999999999909
+ 31
+0.0
+  0
+LINE
+  5
+693
+330
+1F
+100
+AcDbEntity
+  8
+TC-etch-lines-laser
+ 62
+     1
+100
+AcDbLine
+ 10
+-0.0000000000000001
+ 20
+25.00296000437826
+ 30
+0.0
+ 11
+30.0
+ 21
+25.00311847562989
+ 31
+0.0
+  0
+LINE
+  5
+69F
+330
+1F
+100
+AcDbEntity
+  8
+TC-etch-lines-laser
+100
+AcDbLine
+ 10
+17.54001835406823
+ 20
+24.75305265733018
+ 30
+0.0
+ 11
+17.54001835406823
+ 21
+29.99999999999909
+ 31
+0.0
+  0
+LINE
+  5
+6A0
+330
+1F
+100
+AcDbEntity
+  8
+TC-etch-lines-laser
+100
+AcDbLine
+ 10
+12.46005506222115
+ 20
+24.75305265733018
+ 30
+0.0
+ 11
+12.46005506222115
+ 21
+29.99999999999909
+ 31
+0.0
+  0
+LINE
+  5
+6A1
+330
+1F
+100
+AcDbEntity
+  8
+TC-etch-lines-laser
+100
+AcDbLine
+ 10
+17.54001835406823
+ 20
+5.247058900910005
+ 30
+0.0
+ 11
+17.54001835406823
+ 21
+0.0001115582410911
+ 31
+0.0
+  0
+LINE
+  5
+6A2
+330
+1F
+100
+AcDbEntity
+  8
+TC-etch-lines-laser
+100
+AcDbLine
+ 10
+12.46005506222115
+ 20
+5.247058900910005
+ 30
+0.0
+ 11
+12.46005506222115
+ 21
+0.0001115582410911
+ 31
+0.0
+  0
 ENDSEC
   0
 SECTION
@@ -27089,7 +27669,7 @@ ACAD_VISUALSTYLE
   3
 ACDB_RECOMPOSE_DATA
 350
-5D0
+6B3
   3
 AcDbVariableDictionary
 350
@@ -27149,7 +27729,7 @@ ACAD_LAYERSTATES
   3
 ACLYDICTIONARY
 360
-3D9
+5EF
   0
 DICTIONARY
   5
@@ -27663,7 +28243,7 @@ EA
   0
 XRECORD
   5
-5D0
+6B3
 102
 {ACAD_REACTORS
 330
@@ -27756,14 +28336,10 @@ DICTIONARY
 AcDbDictionary
 281
      1
-  3
-ARGON_LAYERP_25
-350
-4B1
   0
 DICTIONARY
   5
-3D9
+5EF
 102
 {ACAD_REACTORS
 330
@@ -29201,7 +29777,7 @@ TABLESTYLE
 102
 {ACAD_XDICTIONARY
 360
-5CE
+6B1
 102
 }
 330
@@ -36329,305 +36905,9 @@ DictionaryVariables
   1
 0
   0
-XRECORD
-  5
-4B1
-102
-{ACAD_REACTORS
-330
-294
-102
-}
-330
-294
-100
-AcDbXrecord
-280
-     1
- 91
-    34815
-301
-
-290
-     0
-302
-pixel-electrode-large-lower
-330
-10
- 90
-        8
- 62
-     7
-370
-    -3
-331
-16
-  1
-Color_7
-440
- 33554687
-440
- 33554687
-330
-12A
- 90
-        0
- 62
-     7
-370
-    -3
-331
-16
-  1
-Color_7
-440
- 33554687
-440
- 33554687
-330
-12B
- 90
-        8
- 62
-     4
-370
-    -3
-331
-16
-  1
-Color_4
-440
- 33554687
-440
- 33554687
-330
-131
- 90
-        8
- 62
-     1
-370
-    -3
-331
-16
-  1
-Color_1
-440
- 33554687
-440
- 33554687
-330
-132
- 90
-        8
- 62
-     3
-370
-    -3
-331
-16
-  1
-Color_3
-440
- 33554687
-440
- 33554687
-330
-133
- 90
-        8
- 62
-     2
-370
-    -3
-331
-16
-  1
-Color_2
-440
- 33554687
-440
- 33554687
-330
-134
- 90
-        8
- 62
-     6
-370
-    -3
-331
-16
-  1
-Color_6
-440
- 33554687
-440
- 33554687
-330
-135
- 90
-        8
- 62
-     7
-370
-    -3
-331
-16
-  1
-Color_7
-440
- 33554687
-440
- 33554687
-330
-136
- 90
-        8
- 62
-     2
-370
-    -3
-331
-16
-  1
-Color_2
-440
- 33554687
-440
- 33554687
-330
-137
- 90
-        8
- 62
-     4
-370
-    -3
-331
-16
-  1
-Color_4
-440
- 33554687
-440
- 33554687
-330
-138
- 90
-        8
- 62
-     4
-370
-    -3
-331
-16
-  1
-Color_4
-440
- 33554687
-440
- 33554687
-330
-139
- 90
-        8
- 62
-     4
-370
-    -3
-331
-16
-  1
-Color_4
-440
- 33554687
-440
- 33554687
-330
-13A
- 90
-        8
- 62
-     4
-370
-    -3
-331
-16
-  1
-Color_4
-440
- 33554687
-440
- 33554687
-330
-13B
- 90
-        8
- 62
-     2
-370
-    -3
-331
-16
-  1
-Color_2
-440
- 33554687
-440
- 33554687
-330
-13C
- 90
-        8
- 62
-     2
-370
-    -3
-331
-16
-  1
-Color_2
-440
- 33554687
-440
- 33554687
-330
-13D
- 90
-        8
- 62
-     4
-370
-    -3
-331
-16
-  1
-Color_4
-440
- 33554687
-440
- 33554687
-330
-13E
- 90
-        9
- 62
-     3
-370
-    -3
-331
-16
-  1
-Color_3
-440
- 33554687
-440
- 33554687
-  0
 DICTIONARY
   5
-5CE
+6B1
 330
 87
 100
@@ -36639,19 +36919,19 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-5CF
+6B2
   0
 CELLSTYLEMAP
   5
-5CF
+6B2
 102
 {ACAD_REACTORS
 330
-5CE
+6B1
 102
 }
 330
-5CE
+6B1
 100
 AcDbCellStyleMap
  90
