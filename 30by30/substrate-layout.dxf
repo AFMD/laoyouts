@@ -501,19 +501,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2458412.659576285
+2458412.699595313
   9
 $TDUUPDATE
  40
-2458412.659576285
+2458412.699595313
   9
 $TDINDWG
  40
-0.0000003819
+0.0000003588
   9
 $TDUSRTIMER
  40
-0.0086502083
+0.048669213
   9
 $USRTIMER
  70
@@ -553,7 +553,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-1678
+16C7
   9
 $SURFTAB1
  70
@@ -1381,9 +1381,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-48.97051524961976
+25.49920113114576
  22
-35.10923399511167
+28.69799714665569
  13
 0.0
  23
@@ -1403,13 +1403,13 @@ AcDbViewportTableRecord
  36
 1.0
  17
--27.66959356597968
+-27.66959356597967
  27
--19.53870295786202
+-19.53870295786204
  37
 0.0
  40
-34.33577493074252
+67.06206041160644
  41
 1.812729498164015
  42
@@ -1621,7 +1621,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  70
      0
  62
@@ -1873,7 +1873,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-pixel-electrodes-small-upper
+metal-pixel-electrodes-small-upper
  70
      0
  62
@@ -1909,7 +1909,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  70
      0
  62
@@ -1945,7 +1945,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-pixel-electrode-large-lower
+metal-pixel-electrode-large-lower
  70
      0
  62
@@ -1981,7 +1981,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-pixel-electrode-large-upper
+metal-pixel-electrode-large-upper
  70
      0
  62
@@ -3385,7 +3385,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -3413,7 +3413,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -3441,7 +3441,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -3469,7 +3469,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -3497,7 +3497,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -3525,7 +3525,7 @@ SOLID
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -3563,7 +3563,7 @@ SOLID
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -3601,7 +3601,7 @@ MTEXT
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -3735,7 +3735,7 @@ LINE
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 370
@@ -3763,7 +3763,7 @@ LINE
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 370
@@ -3791,7 +3791,7 @@ A00
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 370
@@ -3819,7 +3819,7 @@ A01
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 370
@@ -3847,7 +3847,7 @@ A02
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 100
@@ -3885,7 +3885,7 @@ A03
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 100
@@ -3923,7 +3923,7 @@ A04
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 100
@@ -4057,7 +4057,7 @@ A0B
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 370
@@ -4085,7 +4085,7 @@ A0B
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 370
@@ -4113,7 +4113,7 @@ A0B
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 370
@@ -4141,7 +4141,7 @@ A0B
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 370
@@ -4169,7 +4169,7 @@ A0B
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 100
@@ -4207,7 +4207,7 @@ A0B
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 100
@@ -4245,7 +4245,7 @@ A0B
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
  62
      0
 100
@@ -4379,7 +4379,7 @@ AF9
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -4407,7 +4407,7 @@ AF9
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -4435,7 +4435,7 @@ AF9
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -4463,7 +4463,7 @@ AF9
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -4491,7 +4491,7 @@ AF9
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -4529,7 +4529,7 @@ AF9
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -4567,7 +4567,7 @@ AF9
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -4701,7 +4701,7 @@ C2B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -4729,7 +4729,7 @@ C2B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -4757,7 +4757,7 @@ C2B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -4785,7 +4785,7 @@ C2B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -4813,7 +4813,7 @@ C2B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -4851,7 +4851,7 @@ C2B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -4889,7 +4889,7 @@ C2B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -5023,7 +5023,7 @@ C3B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5051,7 +5051,7 @@ C3B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5079,7 +5079,7 @@ C3B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5107,7 +5107,7 @@ C3B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5135,7 +5135,7 @@ C3B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -5173,7 +5173,7 @@ C3B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -5211,7 +5211,7 @@ C3B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -5345,7 +5345,7 @@ C4B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5373,7 +5373,7 @@ C4B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5401,7 +5401,7 @@ C4B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5429,7 +5429,7 @@ C4B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5457,7 +5457,7 @@ C4B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5485,7 +5485,7 @@ C4B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5513,7 +5513,7 @@ C4B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -5551,7 +5551,7 @@ C4B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -5589,7 +5589,7 @@ C4B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -5723,7 +5723,7 @@ C5D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5751,7 +5751,7 @@ C5D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5779,7 +5779,7 @@ C5D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5807,7 +5807,7 @@ C5D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -5835,7 +5835,7 @@ C5D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -5873,7 +5873,7 @@ C5D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -5911,7 +5911,7 @@ C5D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -6045,7 +6045,7 @@ C6D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6073,7 +6073,7 @@ C6D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6101,7 +6101,7 @@ C6D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6129,7 +6129,7 @@ C6D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6157,7 +6157,7 @@ C6D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -6195,7 +6195,7 @@ C6D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -6233,7 +6233,7 @@ C6D
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -6367,7 +6367,7 @@ C8B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6395,7 +6395,7 @@ C8B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6423,7 +6423,7 @@ C8B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6451,7 +6451,7 @@ C8B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6479,7 +6479,7 @@ C8B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -6517,7 +6517,7 @@ C8B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -6555,7 +6555,7 @@ C8B
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -6689,7 +6689,7 @@ C9C
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6717,7 +6717,7 @@ C9C
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6745,7 +6745,7 @@ C9C
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6773,7 +6773,7 @@ C9C
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -6801,7 +6801,7 @@ C9C
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -6839,7 +6839,7 @@ C9C
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -6877,7 +6877,7 @@ C9C
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -7011,7 +7011,7 @@ DCC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -7039,7 +7039,7 @@ DCC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -7067,7 +7067,7 @@ DCC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -7095,7 +7095,7 @@ DCC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -7123,7 +7123,7 @@ DCC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -7161,7 +7161,7 @@ DCC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -7199,7 +7199,7 @@ DCC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -7333,7 +7333,7 @@ DDC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -7361,7 +7361,7 @@ DDC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -7389,7 +7389,7 @@ DDC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -7417,7 +7417,7 @@ DDC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -7445,7 +7445,7 @@ DDC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -7483,7 +7483,7 @@ DDC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -7521,7 +7521,7 @@ DDC
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -8299,7 +8299,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -8327,7 +8327,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -8355,7 +8355,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -8383,7 +8383,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -8411,7 +8411,7 @@ SOLID
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -8449,7 +8449,7 @@ SOLID
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -8487,7 +8487,7 @@ MTEXT
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -8621,7 +8621,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -8649,7 +8649,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -8677,7 +8677,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -8705,7 +8705,7 @@ LINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 370
@@ -8733,7 +8733,7 @@ SOLID
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -8771,7 +8771,7 @@ SOLID
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -8809,7 +8809,7 @@ MTEXT
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
  62
      0
 100
@@ -10489,7 +10489,7 @@ AcDbMText
   3
 {\fFreeMono|b0|i0|c0|p0;\Lsmall pixel light mask shape:\P\l- 5:4 aspect ratio\P- 0.5mm radius corner fillets\P- area = 20.0 mm^ 2\P- width = sqrt((20.0+0.5^ 2*(4-pi))*5/4)\P- height = width * 4/5\P\P\Llarge pixel light mask shape:\P\l-18:5 aspect ratio
   1
-\P-0.5mm radius corner fillets\P-area = 100.0 mm^ 2\P-width = sqrt((100.0+0.5^ 2*(4-pi))*18/5)\P-height = width * 5/18\P\P\Ldark areas:\P\l-large pixel = 115.6536 mm^ 2\P-small pixel = 027.3008 mm^ 2}
+\P-0.5mm radius corner fillets\P-area = 100.0 mm^ 2\P-width = sqrt((100.0+0.5^ 2*(4-pi))*18/5)\P-height = width * 5/18\P\P\Ldark areas:\P\l-large pixel = 115.1535 mm^ 2\P-small pixel = 026.8008 mm^ 2}
  73
      1
  44
@@ -10977,7 +10977,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
 100
 AcDbPolyline
  90
@@ -11103,7 +11103,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
 100
 AcDbPolyline
  90
@@ -11241,7 +11241,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-lower
+metal-pixel-electrodes-small-lower
 100
 AcDbPolyline
  90
@@ -11413,11 +11413,11 @@ AcDbPolyline
  10
 14.5
  20
-4.749981280006164
+5.249962560011653
  10
 15.5
  20
-4.74998128000621
+5.249962560011699
  10
 15.5
  20
@@ -11453,7 +11453,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-upper
+metal-pixel-electrodes-small-upper
 100
 AcDbPolyline
  90
@@ -11579,7 +11579,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-upper
+metal-pixel-electrodes-small-upper
 100
 AcDbPolyline
  90
@@ -11717,7 +11717,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-pixel-electrodes-small-upper
+metal-pixel-electrodes-small-upper
 100
 AcDbPolyline
  90
@@ -11843,7 +11843,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-pixel-electrode-large-lower
+metal-pixel-electrode-large-lower
 100
 AcDbPolyline
  90
@@ -11981,7 +11981,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-pixel-electrode-large-upper
+metal-pixel-electrode-large-upper
 100
 AcDbPolyline
  90
@@ -12123,55 +12123,23 @@ large-pixel-dark-area
 100
 AcDbPolyline
  90
-       14
+       12
  70
      1
  43
 0.0
  10
-24.79700698395001
+14.49831512230638
  20
-10.78506488377068
- 10
-24.79700698395001
- 20
-6.508949892690699
+5.249962560011653
  42
--0.414213562373095
- 10
-23.99700698395
- 20
-5.708949892690698
- 10
-16.0
- 20
-5.708949892690698
- 42
-0.414213562373095
- 10
-15.5
- 20
-5.208949892690698
- 10
-15.5
- 20
-4.74998128000621
- 10
-14.5
- 20
-4.749981280006164
- 10
-14.5
- 20
-5.208949892690698
- 42
-0.414213562373095
+0.3903613535072959
  10
 14.0
  20
 5.708949892690698
  10
-6.002993016049999
+6.00299301605
  20
 5.708949892690697
  42
@@ -12196,6 +12164,30 @@ AcDbPolyline
 11.58506488377068
  42
 -0.414213562373095
+ 10
+24.79700698395001
+ 20
+10.78506488377068
+ 10
+24.79700698395001
+ 20
+6.508949892690699
+ 42
+-0.414213562373095
+ 10
+23.99700698395
+ 20
+5.708949892690698
+ 10
+16.0
+ 20
+5.708949892690698
+ 42
+0.3903613535072958
+ 10
+15.50168487769362
+ 20
+5.249962560011653
   0
 LWPOLYLINE
   5
@@ -12205,7 +12197,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-transparent-conductor-reinforcement
+metal-TC-reinforcement
 100
 AcDbPolyline
  90
@@ -12805,11 +12797,11 @@ AcDbPolyline
  20
 0.0
  10
-29.99998128000547
+30.0
  20
 0.0
  10
-29.99998128000547
+30.0
  20
 29.99999999999909
   0
@@ -13179,23 +13171,23 @@ ANSI31
  20
 0.0
  11
-29.99998128000547
+30.0
  21
 0.0
  72
      1
  10
-29.99998128000547
+30.0
  20
 0.0
  11
-29.99998128000547
+30.0
  21
 29.99999999999909
  72
      1
  10
-29.99998128000547
+30.0
  20
 29.99999999999909
  11
@@ -13735,7 +13727,7 @@ ACAD_VISUALSTYLE
   3
 ACDB_RECOMPOSE_DATA
 350
-1677
+16C6
   3
 AcDbVariableDictionary
 350
@@ -13795,7 +13787,7 @@ ACAD_LAYERSTATES
   3
 ACLYDICTIONARY
 360
-15AD
+169B
   0
 DICTIONARY
   5
@@ -14325,7 +14317,7 @@ EA
   0
 XRECORD
   5
-1677
+16C6
 102
 {ACAD_REACTORS
 330
@@ -14421,7 +14413,7 @@ AcDbDictionary
   0
 DICTIONARY
   5
-15AD
+169B
 102
 {ACAD_REACTORS
 330
@@ -16035,7 +16027,7 @@ TABLESTYLE
 102
 {ACAD_XDICTIONARY
 360
-1675
+16C4
 102
 }
 330
@@ -23165,7 +23157,7 @@ DictionaryVariables
   0
 DICTIONARY
   5
-1675
+16C4
 330
 87
 100
@@ -23177,19 +23169,19 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-1676
+16C5
   0
 CELLSTYLEMAP
   5
-1676
+16C5
 102
 {ACAD_REACTORS
 330
-1675
+16C4
 102
 }
 330
-1675
+16C4
 100
 AcDbCellStyleMap
  90
