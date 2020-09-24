@@ -1,5 +1,5 @@
 // generates the substrate holder
-// grey@mutovis.com
+// grey@christoforo.net
 // 12 april 2019
 
 cir_rad = 114;
